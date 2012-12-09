@@ -47,3 +47,11 @@ as xifthen is loaded first.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Fri Apr 13 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.1a-1
++ Revision: 790625
+- Import texlive-ifthenx
+- Import texlive-ifthenx
+

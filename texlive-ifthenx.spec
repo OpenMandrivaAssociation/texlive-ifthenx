@@ -6,7 +6,7 @@
 # catalog-version 0.1a
 Name:		texlive-ifthenx
 Version:	0.1a
-Release:	4
+Release:	5
 Summary:	Extra tests for \ifthenelse
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ifthenx

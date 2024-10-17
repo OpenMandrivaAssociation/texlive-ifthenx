@@ -3,7 +3,7 @@ Version:	25819
 Release:	2
 Summary:	Extra tests for \ifthenelse
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ifthenx
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ifthenx
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ifthenx.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ifthenx.doc.r%{version}.tar.xz
